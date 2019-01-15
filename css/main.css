@@ -22,6 +22,7 @@ html {
 body {
   max-height: 75vh;
   overflow: hidden;
+  margin: 1rem;
 }
 
 section {
