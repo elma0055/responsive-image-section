@@ -34,8 +34,12 @@ h1 {
   line-height: 1.5;
 }
 
+strong {
+  display: block;
+}
 img {
   width: 100%;
+  padding-top: 1rem;
 }
 
 a {
